@@ -1,4 +1,5 @@
-# Kalshi Discord Bot
+# Kalshi Sentinel
+
 
 > **Prediction Markets Bot** powered by [Kalshi](https://kalshi.com) API
 
@@ -6,7 +7,7 @@ A Discord-native trading bot that lets users monitor Kalshi prediction markets, 
 
 ---
 
-## 🎯 **What is Kalshi Discord Bot?**
+## 🎯 **What is Kalshi Sentinel?**
 
 This bot brings Kalshi prediction markets directly into your Discord server. Users can:
 
